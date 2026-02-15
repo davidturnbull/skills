@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Agent Skills](https://agentskills.io/what-are-skills) are a lightweight, open format for extending AI agent capabilities with specialized knowledge and workflows. This repo is for skills sharing skills that I've consistently found to work (very) well.
+[Agent Skills](https://agentskills.io/what-are-skills) are a lightweight, open format for extending AI agent capabilities with specialized knowledge and workflows. This repo is for sharing skills that I've consistently found to work (very) well.
 
 ## Installation
 
