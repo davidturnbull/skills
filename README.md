@@ -16,11 +16,15 @@ npx skills add davidturnbull/skills/<skill-name>
 
 ### commit
 
-Group working tree changes into atomic commits with well-crafted messages. Reads diffs, splits unrelated changes into separate commits, orders them for bisectability, and drafts conventional commit messages. Presents a numbered plan you can selectively approve, edit, or commit all at once. Flags secrets and large binaries before committing.
-
 ```sh
 npx skills add davidturnbull/skills/commit
 ```
+
+Group working tree changes into atomic commits with well-crafted messages:
+
+- Drafts conventional commit messages.
+- Splits unrelated changes into separate commits and orders them for bisectability.
+- Presents a numbered plan you can selectively approve, edit, or commit all at once.
 
 ## License
 
